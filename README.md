@@ -6,7 +6,9 @@
 </div>
 
 ### About Me 👨‍💻
-I'm a Software Developer with a strong focus on neuroscience and machine learning applications. I specialize in developing tools and algorithms for neurofeedback, EEG data analysis, and building community-driven applications.
+I'm a Software Developer specializing in neuroscience and machine learning applications, with expertise in BCI (Brain-Computer Interfaces) and 3D modeling. My work focuses on developing algorithms for neurofeedback and EEG data analysis,creating digital human models and 3D visualizations for neuroscience, Implementing machine learning solutions for brain signal processing
+### Currently Learning
+
 
 ### Projects 🚀
 
