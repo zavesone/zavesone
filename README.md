@@ -6,9 +6,7 @@
 </div>
 
 ### About Me 👨‍💻
-I'm a Software Developer specializing in neuroscience and machine learning applications, with expertise in BCI (Brain-Computer Interfaces) and 3D modeling. My work focuses on developing algorithms for neurofeedback and EEG data analysis,creating digital human models and 3D visualizations for neuroscience, Implementing machine learning solutions for brain signal processing
-### Currently Learning
-
+I'm a Software Developer with a strong focus on neuroscience and machine learning applications. I specialize in developing tools and algorithms for neurofeedback, EEG data analysis, and building community-driven applications.
 
 ### Projects 🚀
 
@@ -33,14 +31,28 @@ I'm a Software Developer specializing in neuroscience and machine learning appli
 <img title="MATLAB" alt="MATLAB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />|<img title="MNE-Python" alt="MNE-Python" width="40px" src="https://mne.tools/stable/_static/mne_logo.svg" />|<img title="FreeSurfer" alt="FreeSurfer" width="40px" src="https://nmmitools.org/wp-content/uploads/2019/05/freesurfer-logo.png" />|<img title="SPM" alt="SPM" width="40px" src="https://www.fil.ion.ucl.ac.uk/spm/images/spm12.png" />|<img title="EEGLAB" alt="EEGLAB" width="40px" src="https://yt3.googleusercontent.com/ytc/AIdro_lYY3SG7hkqYHP9toMys-WXbxR1LIaj6H3qZkoisQIZMQ=s160-c-k-c0x00ffffff-no-rj" />|<img title="ERPLAB" alt="ERPLAB" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CHNedDGueM-KtLUC-epPnIdJiyQlVJ7rpy37XBm-et20DlA4" />|<img title="CAT12" alt="CAT12" width="40px" src="https://neuro-jena.github.io/favicon.ico" />|<img title="EDF Browser" alt="EDF Browser" width="40px" src="https://edfbrowser.software.informer.com/favicon.ico" />|<img title="BrainStorm" alt="BrainStorm" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAxnBAOx26N3HLbhakNHr3iwFXp0C0qBmJG_N0tgjqKISODURkEO0-Jey6Zy_cMNZDJEk&usqp=CAU" />
 |--|--|--|--|--|--|--|--|--|
 
-### Machine Learning & AI
-<img title="Python" alt="Python" width="40px" src="https://skillicons.dev/icons?i=py" />|<img title="PyTorch" alt="PyTorch" width="40px" src="https://skillicons.dev/icons?i=pytorch" />|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" />|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
-|--|--|--|--|
+### Neurofeedback Software 🧠
+<div align="left">
+  <a href="http://openvibe.inria.fr/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenViBE-4A154B?style=for-the-badge" height="28" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://timeflux.io" target="_blank">
+    <img src="https://img.shields.io/badge/Timeflux-FF6B6B?style=for-the-badge" height="28" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://nflab.ca/" target="_blank">
+    <img src="https://img.shields.io/badge/NFLab-00ADD8?style=for-the-badge" height="28" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.neuromoresoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Neuromore%20Studio-5C2D91?style=for-the-badge" height="28" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://neurofeedbacklab.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NeurofeedbackLab-2C8EBB?style=for-the-badge" height="28" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
-
-### Tools & Development
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />|<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=postgres" />|<img title="Arduino" alt="Arduino" width="40px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" />|<img title="Docker" alt="Docker" width="40px" src="https://skillicons.dev/icons?i=docker" />|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" />
-|--|--|--|--|--|--|--|--|
+### Tools & Development misc
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />|<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=postgres" />|<img title="Arduino" alt="Arduino" width="40px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" />|<img title="Docker" alt="Docker" width="40px" src="https://skillicons.dev/icons?i=docker" />|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" />|<img title="Python" alt="Python" width="40px" src="https://skillicons.dev/icons?i=py" />|<img title="PyTorch" alt="PyTorch" width="40px" src="https://skillicons.dev/icons?i=pytorch" />|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" />
+|--|--|--|--|--|--|--|--|--|--|--|
 
 ### Certifications & Education 📚
 | Certificate Name                                 | Institution              | Field                        | Work Period     |
@@ -80,25 +92,6 @@ I'm a Software Developer specializing in neuroscience and machine learning appli
   </a>
   <a href="https://www.linkedin.com/in/fedor-kostin-611525228/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin height="28" style="margin-bottom: 5px;" />
-  </a>
-</div>
-
-### Neurofeedback Software 🧠
-<div align="center">
-  <a href="http://openvibe.inria.fr/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenViBE-4A154B?style=for-the-badge" height="28" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://timeflux.io" target="_blank">
-    <img src="https://img.shields.io/badge/Timeflux-FF6B6B?style=for-the-badge" height="28" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://nflab.ca/" target="_blank">
-    <img src="https://img.shields.io/badge/NFLab-00ADD8?style=for-the-badge" height="28" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.neuromoresoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Neuromore%20Studio-5C2D91?style=for-the-badge" height="28" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://neurofeedbacklab.com/" target="_blank">
-    <img src="https://img.shields.io/badge/NeurofeedbackLab-2C8EBB?style=for-the-badge" height="28" style="margin-bottom: 5px;" />
   </a>
 </div>
 
