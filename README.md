@@ -19,96 +19,26 @@ I'm a Software Developer with a strong focus on neuroscience and machine learnin
   - Personalized event notifications
   - Meetup organization features
   - Random coffee matching system for finding lecture companions
-### 3D Graphics 
-<div align="left">
-  <img title="Blender" alt="Blender" height="40" src="https://e7.pngegg.com/pngimages/770/966/png-clipart-blender-computer-icons-rendering-blender-3d-computer-graphics-text-thumbnail.png" />
-  <img width="12" />
-  <img title="Marvelous Designer" alt="Marvelous Designer" height="40" src="https://www.cybermania.ws/wp-content/uploads/MarvelousDesigner.png" />
-  <img width="12" />
-  <img title="Fusion 360" alt="Fusion 360" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2yxzG0JIBVseZxj_txANPm613q0glC7gmA&s" />
-  <img width="12" />
-  <img title="Plasticity 3D" alt="Plasticity 3D" height="40" src="https://www.plasticity.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon_256x256.09a58ec3.png&w=640&q=75" />
-  <img width="12" />
-  <img title="Unreal Engine" alt="Unreal Engine" height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/unreal-engine/unreal-engine.png" />
-  <img width="12" />
-  <img title="Character Creator" alt="Character Creator" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMujCNXoTCb3iEf71DNy4JGIRaAUV4Oj9WjzWrkxyx41WPpvah3k3yuxhMOKhN7e2BCeM&usqp=CAU" />
-  <img width="12" />
-  <img title="Daz3D" alt="Daz3D" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Vebr1sdw1COR2N5bZGLZHUCHYzfKWNQGA&s" />
-  <img width="12" />
-  <img title="Quixel Bridge" alt="Quixel Bridge" height="40" src="https://logosandtypes.com/wp-content/uploads/2020/08/quixel.png" />
-  <img width="12" />
-  <img title="Marmoset Toolbag" alt="Marmoset Toolbag" height="40" src="https://marmoset.co/wp-content/uploads/2016/11/marmoset_logos.png" />
-</div>
+### 3D Graphics
+<img title="Blender" alt="Blender" width="40px" src="https://e7.pngegg.com/pngimages/770/966/png-clipart-blender-computer-icons-rendering-blender-3d-computer-graphics-text-thumbnail.png" />|<img title="Marvelous Designer" alt="Marvelous Designer" width="40px" src="https://www.cybermania.ws/wp-content/uploads/MarvelousDesigner.png" />|<img title="Fusion 360" alt="Fusion 360" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2yxzG0JIBVseZxj_txANPm613q0glC7gmA&s" />|<img title="Plasticity 3D" alt="Plasticity 3D" width="40px" src="https://www.plasticity.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon_256x256.09a58ec3.png&w=640&q=75" />|<img title="Unreal Engine" alt="Unreal Engine" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/unreal-engine/unreal-engine.png" />|<img title="Character Creator" alt="Character Creator" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMujCNXoTCb3iEf71DNy4JGIRaAUV4Oj9WjzWrkxyx41WPpvah3k3yuxhMOKhN7e2BCeM&usqp=CAU" />|<img title="Daz3D" alt="Daz3D" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Vebr1sdw1COR2N5bZGLZHUCHYzfKWNQGA&s" />|<img title="Quixel Bridge" alt="Quixel Bridge" width="40px" src="https://logosandtypes.com/wp-content/uploads/2020/08/quixel.png" />|<img title="Marmoset Toolbag" alt="Marmoset Toolbag" width="40px" src="https://marmoset.co/wp-content/uploads/2016/11/marmoset_logos.png" />|<img title="Substance Painter" alt="Substance Painter" width="40px" src="https://cdn.worldvectorlogo.com/logos/substance-painter.svg" />|<img title="Substance Designer" alt="Substance Designer" width="40px" src="https://cdn.worldvectorlogo.com/logos/substance-designer.svg" />
+|--|--|--|--|--|--|--|--|--|--|--|
 
 ### Design & UI/UX & Web Dev
-<div align="left">
-  <img title="Webflow" alt="Webflow" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn084NFbQzbGskEWG966ifl9UB8eFqtmxxfQ&s" />
-  <img width="12" />
-  <img title="Adobe Premiere Pro" alt="Premiere Pro" height="40" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" />
-  <img width="12" />
-  <img title="Figma" alt="Figma" height="40" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" />
-  <img width="12" />
-  <img title="Adobe Illustrator" alt="Adobe Illustrator" height="40" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" />
-  <img width="12" />
-  <img title="Adobe Photoshop" alt="Adobe Photoshop" height="40" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" />
-  <img width="12" />
-  <img title="Adobe After Effects" alt="Adobe After Effects" height="40" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" />
-  <img width="12" />
-  <img title="WordPress" alt="WordPress" height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" />
-  <img width="12" />
-  <img title="WooCommerce" alt="WooCommerce" height="40" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" />
-  <img width="12" />
-  <img title="Elementor" alt="Elementor" height="40" src="https://e7.pngegg.com/pngimages/253/553/png-clipart-elementor-logo-thumbnail-tech-companies-thumbnail.png" />
-</div>
+<img title="Webflow" alt="Webflow" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn084NFbQzbGskEWG966ifl9UB8eFqtmxxfQ&s" />|<img title="Adobe Premiere Pro" alt="Premiere Pro" width="40px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" />|<img title="Figma" alt="Figma" width="40px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" />|<img title="Adobe Illustrator" alt="Adobe Illustrator" width="40px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" />|<img title="Adobe Photoshop" alt="Adobe Photoshop" width="40px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" />|<img title="Adobe After Effects" alt="Adobe After Effects" width="40px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" />|<img title="WordPress" alt="WordPress" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" />|<img title="WooCommerce" alt="WooCommerce" width="40px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" />|<img title="Elementor" alt="Elementor" width="40px" src="https://e7.pngegg.com/pngimages/253/553/png-clipart-elementor-logo-thumbnail-tech-companies-thumbnail.png" />
+|--|--|--|--|--|--|--|--|--|
 
 ### Neuroscience & Signal Processing
-<div align="left">
-  <img title="MATLAB" alt="MATLAB" height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />
-  <img width="12" />
-  <img title="Python" alt="Python" height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-  <img width="12" />
-  <img title="MNE-Python" alt="MNE-Python" height="40" src="https://mne.tools/stable/_static/mne_logo.svg" />
-  <img width="12" />
-  <img title="FreeSurfer" alt="FreeSurfer" height="40" src="https://nmmitools.org/wp-content/uploads/2019/05/freesurfer-logo.png" />
-  <img width="12" />
-  <img title="SPM" alt="SPM" height="40" src="https://www.fil.ion.ucl.ac.uk/spm/images/spm12.png" />
-  <img width="12" />
-  <img title="EEGLAB" alt="EEGLAB" height="40" src="https://yt3.googleusercontent.com/ytc/AIdro_lYY3SG7hkqYHP9toMys-WXbxR1LIaj6H3qZkoisQIZMQ=s160-c-k-c0x00ffffff-no-rj" />
-  <img width="12" />
-  <img title="ERPLAB" alt="ERPLAB" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CHNedDGueM-KtLUC-epPnIdJiyQlVJ7rpy37XBm-et20DlA4" />
-  <img width="12" />
-  <img title="CAT12" alt="CAT12" height="40" src="https://neuro-jena.github.io/favicon.ico" />
-</div>
+<img title="MATLAB" alt="MATLAB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />|<img title="MNE-Python" alt="MNE-Python" width="40px" src="https://mne.tools/stable/_static/mne_logo.svg" />|<img title="FreeSurfer" alt="FreeSurfer" width="40px" src="https://nmmitools.org/wp-content/uploads/2019/05/freesurfer-logo.png" />|<img title="SPM" alt="SPM" width="40px" src="https://www.fil.ion.ucl.ac.uk/spm/images/spm12.png" />|<img title="EEGLAB" alt="EEGLAB" width="40px" src="https://yt3.googleusercontent.com/ytc/AIdro_lYY3SG7hkqYHP9toMys-WXbxR1LIaj6H3qZkoisQIZMQ=s160-c-k-c0x00ffffff-no-rj" />|<img title="ERPLAB" alt="ERPLAB" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CHNedDGueM-KtLUC-epPnIdJiyQlVJ7rpy37XBm-et20DlA4" />|<img title="CAT12" alt="CAT12" width="40px" src="https://neuro-jena.github.io/favicon.ico" />|<img title="EDF Browser" alt="EDF Browser" width="40px" src="https://edfbrowser.software.informer.com/favicon.ico" />|<img title="BrainStorm" alt="BrainStorm" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAxnBAOx26N3HLbhakNHr3iwFXp0C0qBmJG_N0tgjqKISODURkEO0-Jey6Zy_cMNZDJEk&usqp=CAU" />
+|--|--|--|--|--|--|--|--|--|
 
 ### Machine Learning & AI
-<div align="left">
-  <img title="Python" alt="Python" height="40" src="https://skillicons.dev/icons?i=py" />
-  <img width="12" />
-  <img title="PyTorch" alt="PyTorch" height="40" src="https://skillicons.dev/icons?i=pytorch" />
-  <img width="12" />
-  <img title="Scikit-Learn" alt="Scikit Learn" height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" />
-  <img width="12" />
-  <img title="OpenCV" alt="OpenCV" height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
-</div>
+<img title="Python" alt="Python" width="40px" src="https://skillicons.dev/icons?i=py" />|<img title="PyTorch" alt="PyTorch" width="40px" src="https://skillicons.dev/icons?i=pytorch" />|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" />|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
+|--|--|--|--|
+
 
 ### Tools & Development
-<div align="left">
-  <img title="VS Code" alt="VS Code" height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
-  <img width="12" />
-  <img title="git" alt="git" height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-  <img width="12" />
-  <img title="Jupyter Notebook" alt="Jupyter" height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
-  <img width="12" />
-  <img title="Ubuntu" alt="Ubuntu" height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
-  <img width="12" />
-  <img title="PostgreSQL" alt="PostgreSQL" height="40" src="https://skillicons.dev/icons?i=postgres" />
-  <img width="12" />
-  <img title="Arduino" alt="Arduino" height="40" src="https://profilinator.rishav.dev/skills-assets/arduino.png" />
-  <img width="12" />
-  <img title="Docker" alt="Docker" height="40" src="https://skillicons.dev/icons?i=docker" />
-  <img width="12" />
-  <img title="Kubernetes" alt="Kubernetes" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" />
-</div>
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />|<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=postgres" />|<img title="Arduino" alt="Arduino" width="40px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" />|<img title="Docker" alt="Docker" width="40px" src="https://skillicons.dev/icons?i=docker" />|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" />
+|--|--|--|--|--|--|--|--|
 
 ### Certifications & Education 📚
 | Certificate Name                                 | Institution              | Field                        | Work Period     |
