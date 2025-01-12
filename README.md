@@ -19,8 +19,69 @@ I'm a Software Developer with a strong focus on neuroscience and machine learnin
   - Personalized event notifications
   - Meetup organization features
   - Random coffee matching system for finding lecture companions
+### 3D & Creative Development 🎨
+<div>
+<img title="Blender" alt="Blender" width="40px" src="https://e7.pngegg.com/pngimages/770/966/png-clipart-blender-computer-icons-rendering-blender-3d-computer-graphics-text-thumbnail.png">|
+<img title="Marvelous Designer" alt="Marvelous Designer" width="40px" src="https://support.marvelousdesigner.com/hc/theming_assets/01J280C7WE5WYCZGW5WAKTTTTE">|
+<img title="Fusion 360" alt="Fusion 360" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2yxzG0JIBVseZxj_txANPm613q0glC7gmA&s">|
+<img title="Plasticity 3D" alt="Plasticity 3D" width="40px" src="https://www.plasticity.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon_256x256.09a58ec3.png&w=640&q=75">|
+<img title="Unreal Engine" alt="Unreal Engine" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/unreal-engine/unreal-engine.png">
+|--|--|--|--|--|
+</div>
+
+### Character & Asset Creation 🎮
+<div>
+<img title="Character Creator" alt="Character Creator" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMujCNXoTCb3iEf71DNy4JGIRaAUV4Oj9WjzWrkxyx41WPpvah3k3yuxhMOKhN7e2BCeM&usqp=CAU">|
+<img title="Daz3D" alt="Daz3D" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Vebr1sdw1COR2N5bZGLZHUCHYzfKWNQGA&s">|
+<img title="Quixel Bridge" alt="Quixel Bridge" width="40px" src="https://logosandtypes.com/wp-content/uploads/2020/08/quixel.png">|
+<img title="Marmoset Toolbag" alt="Marmoset Toolbag" width="40px" src="https://marmoset.co/wp-content/uploads/2016/11/marmoset_logos.png">
+|--|--|--|--|
+</div>
+
+### Design & UI/UX Tools 🎯
+<div>
+<img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">|
+<img title="Adobe Illustrator" alt="Adobe Illustrator" width="40px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg">|
+<img title="Adobe Photoshop" alt="Adobe Photoshop" width="40px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg">|
+<img title="Adobe After Effects" alt="Adobe After Effects" width="40px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png">|
+<img title="Webflow" alt="Webflow" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn084NFbQzbGskEWG966ifl9UB8eFqtmxxfQ&s">
+|--|--|--|--|--|
+</div>
+
+### Web Development & CMS 🌐
+<div>
+<img title="WordPress" alt="WordPress" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png">|
+<img title="WooCommerce" alt="WooCommerce" width="40px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png">|
+<img title="Elementor" alt="Elementor" width="40px" src="https://e7.pngegg.com/pngimages/253/553/png-clipart-elementor-logo-thumbnail-tech-companies-thumbnail.png">
+|--|--|--|
+</div>
 
 ### Tech Stack 🛠
+
+### 3D & Creative Development 🎨
+<div align="center">
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>
+</div>
+
+### Design & UI/UX Tools 🎯
+<div align="center">
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>
+</div>
+
+### Web Development & CMS 🌐
+<div align="center">
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
+<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>
+</div>
+
+### Hardware & Prototyping 🔧
+<div align="center">
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
+</div>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -36,40 +97,23 @@ I'm a Software Developer with a strong focus on neuroscience and machine learnin
 
 ## Skill Set 🛠️
 
-### Neuroscience & Signal Processing
-<div>
-<img title="MATLAB" alt="MATLAB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png">|
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|
-<img title="MNE-Python" alt="MNE-Python" width="40px" src="https://mne.tools/stable/_static/mne_logo.svg">|
-<img title="FreeSurfer" alt="FreeSurfer" width="40px" src="https://surfer.nmr.mgh.harvard.edu/sites/default/files/fswiki/freesurfer-logo-small.png">|
-<img title="SPM" alt="SPM" width="40px" src="https://www.fil.ion.ucl.ac.uk/spm/images/spm12.png">
-|--|--|--|--|--|
-</div>
 
-<div>
-<img title="MATLAB" alt="MATLAB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png">|
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|
-<img title="MNE-Python" alt="MNE-Python" width="40px" src="https://mne.tools/stable/_static/mne_logo.svg">|
-<img title="FreeSurfer" alt="FreeSurfer" width="40px" src="https://surfer.nmr.mgh.harvard.edu/sites/default/files/fswiki/freesurfer-logo-small.png">|
-<img title="SPM" alt="SPM" width="40px" src="https://www.fil.ion.ucl.ac.uk/spm/images/spm12.png">
-|--|--|--|--|--|
-</div>
 
 ### Neuroscience & Signal Processing
 <div>
 <img title="MATLAB" alt="MATLAB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png">|
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|
 <img title="MNE-Python" alt="MNE-Python" width="40px" src="https://mne.tools/stable/_static/mne_logo.svg">|
-<img title="FreeSurfer" alt="FreeSurfer" width="40px" src="https://surfer.nmr.mgh.harvard.edu/sites/default/files/fswiki/freesurfer-logo-small.png">|
+<img title="FreeSurfer" alt="FreeSurfer" width="40px" src="https://nmmitools.org/wp-content/uploads/2019/05/freesurfer-logo.png">|
 <img title="SPM" alt="SPM" width="40px" src="https://www.fil.ion.ucl.ac.uk/spm/images/spm12.png">|
-<img title="CAT12" alt="CAT12" width="40px" src="https://neuro-jena.github.io/cat/images/cat_icon.jpg">
+<img title="CAT12" alt="CAT12" width="40px" src="https://neuro-jena.github.io/favicon.ico">
 |--|--|--|--|--|--|
 </div>
 
 <div>
-<img title="EEGLAB" alt="EEGLAB" width="40px" src="https://sccn.ucsd.edu/images/eeglab_logo.png">|
-<img title="ERPLAB" alt="ERPLAB" width="40px" src="https://github.com/ucdavis/erplab/raw/master/images/erplab_logo.png">|
-<img title="CAT12" alt="CAT12" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Icon_CAT12.png">
+<img title="EEGLAB" alt="EEGLAB" width="40px" src="https://yt3.googleusercontent.com/ytc/AIdro_lYY3SG7hkqYHP9toMys-WXbxR1LIaj6H3qZkoisQIZMQ=s160-c-k-c0x00ffffff-no-rj">|
+<img title="ERPLAB" alt="ERPLAB" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CHNedDGueM-KtLUC-epPnIdJiyQlVJ7rpy37XBm-et20DlA4">|
+<img title="CAT12" alt="CAT12" width="40px" src="https://neuro-jena.github.io/favicon.ico">
 |--|--|--|
 </div>
 
@@ -100,13 +144,16 @@ I'm a Software Developer with a strong focus on neuroscience and machine learnin
 |--|--|
 </div>
 
+
+
 ### 3D & Creative Development
 <div>
-<img title="Blender" alt="Blender" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/blender/blender.png">|
-<img title="Unreal Engine" alt="Unreal Engine" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/unreal-engine/unreal-engine.png">|
-<img title="Fusion360" alt="Fusion360" width="40px" src="https://www.autodesk.com/content/dam/autodesk/www/products/fusion-360/fusion-360-lockup-1200x630.png">|
-<img title="Marvelous Designer" alt="Marvelous Designer" width="40px" src="https://www.marvelousdesigner.com/assets/images/logo/logo_marvelous.svg">
-|--|--|--|--|
+<img title="Blender" alt="Blender" width="40px" src="https://e7.pngegg.com/pngimages/770/966/png-clipart-blender-computer-icons-rendering-blender-3d-computer-graphics-text-thumbnail.png">|
+<img title="Marvelous Designer" alt="Marvelous Designer" width="40px" src="https://media.licdn.com/dms/image/v2/D4D0BAQFuCRUX5C2UwQ/company-logo_200_200/company-logo_200_200/0/1689626196097/marvelous_designer_logo?e=2147483647&v=beta&t=C6rFMuCsxlkLIzIVPkgYhpL8e-8VUDUctC_mLbJcU1w">|
+<img title="Fusion 360" alt="Fusion 360" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2yxzG0JIBVseZxj_txANPm613q0glC7gmA&s">|
+<img title="Plasticity 3D" alt="Plasticity 3D" width="40px" src="https://www.plasticity.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon_256x256.09a58ec3.png&w=640&q=75">|
+<img title="Unreal Engine" alt="Unreal Engine" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/unreal-engine/unreal-engine.png">
+|--|--|--|--|--|
 </div>
 
 ### Tools
@@ -117,6 +164,8 @@ I'm a Software Developer with a strong focus on neuroscience and machine learnin
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
 |--|--|--|--|
 </div>
+
+
 
 ### Certifications & Education 📚
 Selected key certifications in Neuroscience, BCI, ML and Software Development. 
@@ -151,29 +200,23 @@ Selected key certifications in Neuroscience, BCI, ML and Software Development.
 
 ### Connect With Me 🤝
 <div align="left">
-  <a href="YOUR_TELEGRAM_LINK" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="https://t.me/mr_zaves" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/mr.zaves/" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram height="28" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://medium.com/@fedor3016" target="_blank">
+    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium height="28" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/@FedorKostin-qo6nj" target="_blank">
+    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube height="28" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/fedor-kostin-611525228/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin height="28" style="margin-bottom: 5px;" />
   </a>
 </div>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zavesone.zavesone&"  />
-</div>
 <!--
 **zavesone/zavesone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
